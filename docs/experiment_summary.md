@@ -20,6 +20,12 @@ The experiments highlight the complementary strengths of object detection and se
 
 By combining both approaches, a more complete representation of the driving environment can be achieved. This integration is important for ADAS systems, where both object awareness and contextual understanding are required for safe decision-making.
 
+## YOLOX Comparison
+
+An additional experiment was conducted using YOLOX to compare its performance with YOLOv7. The results showed that YOLOX achieves similar detection performance to anchor-based methods for vehicles and pedestrians while using a simpler anchor-free approach.
+
+However, the YOLOX implementation required additional setup steps, making YOLOv7 a more practical choice for this project. This comparison highlights the trade-off between model simplicity and ease of deployment in real-world ADAS systems.
+
 ## Key Observations
 
 - YOLOv7 performs well for real-time object detection but struggles with small or distant objects
