@@ -10,4 +10,10 @@ The system focuses on combining object detection and semantic segmentation to im
 - Evaluation on real-world driving images
 
 ## Status
-Project setup in progress. Experiments and results will be added in later stages.
+Project setup in progress. More experiments and results will be added in later stages.
+
+## Progress
+
+- Completed YOLOv7 object detection experiment
+- Completed SegFormer segmentation experiment
+- Initial qualitative results obtained
