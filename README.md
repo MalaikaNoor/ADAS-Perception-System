@@ -19,10 +19,10 @@ Multiple experiments were conducted using real-world road scene images to evalua
 - YOLOX was tested as an alternative detection model for comparison
 
 ## Repository Structure
-notebooks/ → experiment notebooks
-results/ → model outputs (YOLOv7, SegFormer, YOLOX)
-images/ → input test images
-docs/ → experiment summary and notes
+- notebooks/ → experiment notebooks
+- results/ → model outputs (YOLOv7, SegFormer, YOLOX)
+- images/ → input test images
+- docs/ → experiment summary
 
 ## Final Words
 
